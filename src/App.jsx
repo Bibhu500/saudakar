@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
-import Home from './pages/Home';
+import Home 
 import PMTransition from './pages/PMTransition';
 import UserBehavior from './pages/UserBehavior';
 import PMAI from './pages/PMAI';
